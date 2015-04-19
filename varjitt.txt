@@ -1,1 +1,2 @@
 This file teaches Varjitt how to use git. 
+This line is a new edit. 
